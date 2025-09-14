@@ -1,0 +1,12 @@
+[theme]
+base="light"                     # светлая тема
+primaryColor="#0ea5e9"           # голубой акцент
+backgroundColor="#f7fafc"        # общий фон
+secondaryBackgroundColor="#ffffff" # карточки/боковая панель
+textColor="#0f172a"              # почти чёрный текст
+font="sans serif"                # шрифт (варианты: "sans serif", "serif", "monospace")
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
