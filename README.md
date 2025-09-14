@@ -23,8 +23,8 @@ The system uses YOLO-based models to detect:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Dilnazamanzholova22052006/something.git
+cd something
 ```
 ### 2. Create virtual environment
 Windows (PowerShell):
